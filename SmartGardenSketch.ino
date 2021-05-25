@@ -19,7 +19,6 @@ SoftwareSerial ble(7, 8); // RX, TX for ble
 
 unsigned long int avgValue; 
 int buf[10],temp;
-//float b;
 
 int tint = 0;
 
